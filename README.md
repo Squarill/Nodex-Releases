@@ -1,4 +1,4 @@
-# Nodex releases
+﻿# Nodex releases
 
 Downloads of **Nodex**, a native Windows spreadsheet where sheets work as functions and node-based
 Blueprints replace macros. This repository holds releases only. Each commit here is one release.
@@ -27,3 +27,5 @@ The hash should match the line for that file. The installed edition checks this 
 runs an update.
 
 The program isn't signed yet, so Windows SmartScreen may warn: choose "More info", then "Run anyway".
+
+Newest: Nodex 0.3.0.
