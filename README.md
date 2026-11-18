@@ -28,4 +28,4 @@ runs an update.
 
 The program isn't signed yet, so Windows SmartScreen may warn: choose "More info", then "Run anyway".
 
-Newest: Nodex 0.4.0.
+Newest: Nodex 0.4.1.
